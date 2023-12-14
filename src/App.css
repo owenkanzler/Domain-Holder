@@ -76,3 +76,23 @@ h2 {
 h1 {
   font-size: 6.61rem;
 }
+
+@media (max-width: 768px) {
+  .owen-kanzler .container {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .owen-kanzler h1 {
+    font-size: 2.369rem;
+    margin: 0;
+  }
+
+  .owen-kanzler h4 {
+    font-size: 1rem;
+  }
+
+  .owen-kanzler span {
+    font-size: 0.7rem;
+  }
+}
