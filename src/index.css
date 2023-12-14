@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Playfair+Display:ital@0;1&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: "Bangers", "Playfair Display", sans-serif;
+  color: #fff;
+}
