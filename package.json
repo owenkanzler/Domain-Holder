@@ -6,8 +6,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://owenkanzler.com",
     "dev": "vite",
+    "homepage": "https://owenkanzler.com",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
